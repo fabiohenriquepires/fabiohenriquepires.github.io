@@ -541,3 +541,9 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+
+.habilidade {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+}
